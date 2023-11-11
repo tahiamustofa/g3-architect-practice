@@ -7,6 +7,10 @@
     font-family: 'Work Sans', sans-serif;
   
   }
+  body{
+   padding: 0px;
+   margin: 0px;
+  }
   .btn-primary{
     color: #FFF;
 text-align: center;
@@ -137,7 +141,9 @@ font-weight: 700;
   font-size: 1rem;
   font-weight: 400;
   }
-
+.facts{
+  margin:100px 40px;
+}
   .facts-card-container{
    display: flex;
    justify-content: space-around;
